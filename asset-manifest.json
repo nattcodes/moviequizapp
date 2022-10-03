@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/moviequizapp/static/css/main.ebac70a9.css",
+    "main.js": "/moviequizapp/static/js/main.8e394d12.js",
+    "static/media/f.png": "/moviequizapp/static/media/f.e5e5bdb3dbcacd851b88.png",
+    "static/media/EastSeaDokdo-Regular.ttf": "/moviequizapp/static/media/EastSeaDokdo-Regular.2437497ae30a724c34a5.ttf",
+    "static/media/Montserrat-Bold.otf": "/moviequizapp/static/media/Montserrat-Bold.a6bc51efd33e2f7f1b95.otf",
+    "static/media/Montserrat-ExtraBold.otf": "/moviequizapp/static/media/Montserrat-ExtraBold.08b61655390b457dfa8e.otf",
+    "static/media/SansitaSwashed-VariableFont_wght.ttf": "/moviequizapp/static/media/SansitaSwashed-VariableFont_wght.ad23afaddc43a6f22fa7.ttf",
+    "static/media/Montserrat-Black.otf": "/moviequizapp/static/media/Montserrat-Black.502ad6d1b3ce1300943a.otf",
+    "static/media/KaushanScript-Regular.ttf": "/moviequizapp/static/media/KaushanScript-Regular.b721b739d0ff7289db4f.ttf",
+    "static/media/Roboto-Bold.ttf": "/moviequizapp/static/media/Roboto-Bold.4f39c5796e60c9d8e732.ttf",
+    "static/media/Poppins-Regular.ttf": "/moviequizapp/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/SpecialElite-Regular.ttf": "/moviequizapp/static/media/SpecialElite-Regular.9dc7a59a9d7a92e12beb.ttf",
+    "static/media/Courgette-Regular.ttf": "/moviequizapp/static/media/Courgette-Regular.af9c15cb720a8108634f.ttf",
+    "static/media/AveriaSerifLibre-Regular.ttf": "/moviequizapp/static/media/AveriaSerifLibre-Regular.f5ec4790e5215d707e70.ttf",
+    "static/media/Livvic-Regular.ttf": "/moviequizapp/static/media/Livvic-Regular.ab9935eff99af70a2f1f.ttf",
+    "static/media/Bangers-Regular.ttf": "/moviequizapp/static/media/Bangers-Regular.62caecd7b9210f2ab807.ttf",
+    "static/media/BeVietnam-Regular.ttf": "/moviequizapp/static/media/BeVietnam-Regular.bc288a5339670e39ebc2.ttf",
+    "static/media/Abel-Regular.ttf": "/moviequizapp/static/media/Abel-Regular.3843f456cf56d275baf6.ttf",
+    "index.html": "/moviequizapp/index.html",
+    "main.ebac70a9.css.map": "/moviequizapp/static/css/main.ebac70a9.css.map",
+    "main.8e394d12.js.map": "/moviequizapp/static/js/main.8e394d12.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebac70a9.css",
+    "static/js/main.8e394d12.js"
+  ]
+}
