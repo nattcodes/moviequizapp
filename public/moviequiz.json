@@ -1,0 +1,83 @@
+{
+    "results": [{
+            "id": 1,
+            "question": "Who is Darth Varder in the popular movie Star Wars",
+            "correct_answer": "Anakin Skywalker",
+            "incorrect_answer": [
+                "Obi Wan Kenobi", "Master Yoda", "Palpatine"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "In the movie The Matrix, what color of pill does Neo take?",
+            "correct_answer": "red",
+            "incorrect_answer": [
+                "blue", "green", "black"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "What's the name of Simba's nasty uncle?",
+            "correct_answer": "Scar",
+            "incorrect_answer": [
+                "Jafar", "Gaston", "Shere Khan"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "How many Jumanji films have been made so far?",
+            "correct_answer": "4",
+            "incorrect_answer": [
+                "7", "3", "2"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "In the movie Doctor Strange: Multiverse of Madness, who was the major villain",
+            "correct_answer": "Wanda",
+            "incorrect_answer": [
+                "Bulky", "Spiderman", "Agatha"
+            ]
+        },
+        {
+            "id": 6,
+            "question": "Which American movie studio introduced sound films?",
+            "correct_answer": "Warner Brothers",
+            "incorrect_answer": [
+                "Columbia Pictures", "20th Century Fox", "Metro-Goldwyn-Mayer"
+            ]
+        },
+        {
+            "id": 7,
+            "question": "To which year does Marty McFly travel back in time, in Back to the Future?",
+            "correct_answer": "1955",
+            "incorrect_answer": [
+                "1919", "1976", "1984"
+            ]
+        },
+        {
+            "id": 8,
+            "question": "Who is Superman's biological father?",
+            "correct_answer": "Jor-el",
+            "incorrect_answer": [
+                "Jonathan", "Homelander", "Bro-el"
+            ]
+        },
+        {
+            "id": 9,
+            "question": "Pick the odd hero not part of the Justice League",
+            "correct_answer": "Moon Knight",
+            "incorrect_answer": [
+                "Batman", "Green Lantern", "Superman"
+            ]
+        },
+        {
+            "id": 10,
+            "question": "Who said this, 'YOU SHALL NOT PASS' ?",
+            "correct_answer": "Gandalf",
+            "incorrect_answer": [
+                "Merlin", "Yoda", "Dumbledore"
+            ]
+        }
+    ]
+}
