@@ -13,7 +13,7 @@ function App() {
   const [wrongA, setWrongA] = useState();
   const [wrongB, setWrongB] = useState();
   const [wrongC, setWrongC] = useState();
-  const [timer, setTimer] = useState(51)
+  const [timer, setTimer] = useState(46)
 
   
   useEffect(() => {
@@ -76,6 +76,9 @@ function App() {
          setWrongC('wrongc');
       }
    }
+   const restart = () => {
+      window.location.reload()
+   }
   
   return (
     <div className="App">
@@ -97,6 +100,7 @@ function App() {
         scoreAnswer={scoreAnswer}
         score={score}
         timer={timer}
+        restart={restart}
       />
       <Footer/>
     </div>

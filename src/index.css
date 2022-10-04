@@ -244,7 +244,7 @@ header h1 {
 @media (max-width: 414px) {
     .timer-h2 {
         font-size: .9rem;
-        margin-right: 58%;
+        width: 45%;
         padding: .1rem;
     }
     .timer-h2 span {
@@ -261,7 +261,7 @@ header h1 {
 @media (max-width: 375px) {
     .timer-h2 {
         font-size: .9rem;
-        margin-right: 70%;
+        width: 43%;
         padding: .1rem;
     }
     .timer-h2 span {

@@ -16,7 +16,8 @@ const Content = ({
     clickHandler,
     answer,
     scoreAnswer,
-    timer
+    timer,
+    restart
 
 }) => {
    
@@ -30,7 +31,7 @@ const Content = ({
                     {currentIndex >= movieQuestion.length ? (<div className="end">
                         <h1>Game Over</h1>
                         <h3>{`You scored ${score}/${movieQuestion.length}`}</h3>
-                        <button className="restart"><a href="/Content.jsx">Restart</a></button>
+                        <button className="restart" onClick={restart}>Restart</button>
                         </div>) : (
 
                         <><div className="timer">
