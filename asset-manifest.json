@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/moviequizapp/static/css/main.084afc7c.css",
+    "main.css": "/moviequizapp/static/css/main.aee7e328.css",
     "main.js": "/moviequizapp/static/js/main.8c7d71d7.js",
     "static/media/f.png": "/moviequizapp/static/media/f.e5e5bdb3dbcacd851b88.png",
     "static/media/EastSeaDokdo-Regular.ttf": "/moviequizapp/static/media/EastSeaDokdo-Regular.2437497ae30a724c34a5.ttf",
@@ -19,11 +19,11 @@
     "static/media/BeVietnam-Regular.ttf": "/moviequizapp/static/media/BeVietnam-Regular.bc288a5339670e39ebc2.ttf",
     "static/media/Abel-Regular.ttf": "/moviequizapp/static/media/Abel-Regular.3843f456cf56d275baf6.ttf",
     "index.html": "/moviequizapp/index.html",
-    "main.084afc7c.css.map": "/moviequizapp/static/css/main.084afc7c.css.map",
+    "main.aee7e328.css.map": "/moviequizapp/static/css/main.aee7e328.css.map",
     "main.8c7d71d7.js.map": "/moviequizapp/static/js/main.8c7d71d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.084afc7c.css",
+    "static/css/main.aee7e328.css",
     "static/js/main.8c7d71d7.js"
   ]
 }
