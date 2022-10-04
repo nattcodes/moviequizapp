@@ -1,11 +1,9 @@
 import React, {useState, useEffect} from "react";
+import Header from "./Header";
 import Content from "./Content";
 import Footer from "./Footer";
-import Header from "./Header";
-
 
 function App() {
-  
   const [movieQuestion, setMovieQuestion] = useState([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [count, setCount] = useState(1);
@@ -23,7 +21,13 @@ function App() {
   }, [timer])
   
   const fetcher = () => {
-      fetch("moviequiz.json")
+      fetch('moviequiz.json',{
+         headers : { 
+           'Content-Type': 'application/json',
+           'Accept': 'application/json'
+          }
+       }
+       )
       .then((res) => res.json())
       .then((data) => {
           setMovieQuestion(data.results);
@@ -52,23 +56,23 @@ function App() {
       setWrongC();
   }
    const scoreAnswer = () => {
-      if(movieQuestion[currentIndex].correct_answer == movieQuestion[currentIndex].correct_answer) {
+      if(movieQuestion[currentIndex].correct_answer) {
           setScore(score + 1);
           setAnswer('correct');
       }
    }
    const wrongAnswera = () => {
-      if(movieQuestion[currentIndex].incorrect_answer[0] == movieQuestion[currentIndex].incorrect_answer[0]){
+      if(movieQuestion[currentIndex].incorrect_answer[0]){
          setWrongA('wronga');
       }
    }
    const wrongAnswerb = () => {
-      if(movieQuestion[currentIndex].incorrect_answer[1] == movieQuestion[currentIndex].incorrect_answer[1]){
+      if(movieQuestion[currentIndex].incorrect_answer[1]){
          setWrongB('wrongb');
       }
    }
    const wrongAnswerc = () => {
-      if(movieQuestion[currentIndex].incorrect_answer[2] == movieQuestion[currentIndex].incorrect_answer[2]){
+      if(movieQuestion[currentIndex].incorrect_answer[2]){
          setWrongC('wrongc');
       }
    }
