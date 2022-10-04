@@ -54,7 +54,6 @@ code {
 
 a {
     text-decoration: none;
-    color: black;
 }
 
 button {
@@ -251,7 +250,7 @@ header h1 {
         font-size: .6rem
     }
     .main-question {
-        margin: 0 1rem;
+        margin: 0rem;
     }
     .question-containter {
         margin: 0 1rem;
