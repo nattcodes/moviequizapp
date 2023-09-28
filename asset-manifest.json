@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/moviequizapp/static/css/main.aee7e328.css",
-    "main.js": "/moviequizapp/static/js/main.8c7d71d7.js",
+    "main.js": "/moviequizapp/static/js/main.8ffe732a.js",
     "static/media/f.png": "/moviequizapp/static/media/f.e5e5bdb3dbcacd851b88.png",
     "static/media/EastSeaDokdo-Regular.ttf": "/moviequizapp/static/media/EastSeaDokdo-Regular.2437497ae30a724c34a5.ttf",
     "static/media/Montserrat-Bold.otf": "/moviequizapp/static/media/Montserrat-Bold.a6bc51efd33e2f7f1b95.otf",
@@ -20,10 +20,10 @@
     "static/media/Abel-Regular.ttf": "/moviequizapp/static/media/Abel-Regular.3843f456cf56d275baf6.ttf",
     "index.html": "/moviequizapp/index.html",
     "main.aee7e328.css.map": "/moviequizapp/static/css/main.aee7e328.css.map",
-    "main.8c7d71d7.js.map": "/moviequizapp/static/js/main.8c7d71d7.js.map"
+    "main.8ffe732a.js.map": "/moviequizapp/static/js/main.8ffe732a.js.map"
   },
   "entrypoints": [
     "static/css/main.aee7e328.css",
-    "static/js/main.8c7d71d7.js"
+    "static/js/main.8ffe732a.js"
   ]
 }
